@@ -24,3 +24,5 @@
 
 📧 **Let's Connect!**
 - Interested in collaborating on projects? Feel free to reach out to me at **inkbinary@yonsei.ac.kr**. I'm always open to new ideas and opportunities in the realm of data analysis and backend development!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julia-biolat&show_icons=true&theme=radical)
